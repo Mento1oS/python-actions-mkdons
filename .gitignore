@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.idea
 
 # Distribution / packaging
 .Python
@@ -138,6 +139,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
+site/
 env/
 venv/
 ENV/
