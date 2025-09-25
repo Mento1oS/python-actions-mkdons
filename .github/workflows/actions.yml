@@ -30,4 +30,4 @@ jobs:
           echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
 
       - name: Deploy
-        run: mkdocs pg-deploy --force
+        run: mkdocs gh-deploy --force
