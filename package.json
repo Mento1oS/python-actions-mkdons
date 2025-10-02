@@ -1,0 +1,14 @@
+{
+  "name": "mkdocs-theme",
+  "scripts": {
+    "build:css": "postcss docs/css/style.css -o docs/css/style.min.css --env production",
+    "lint:html": "htmlhint site/",
+    "minify:html": "html-minifier --input-dir site --output-dir site --collapse-whitespace --remove-comments --file-ext html"
+  },
+  "devDependencies": {
+    "postcss-cli": "^11.0.0",
+    "autoprefixer": "^10.4.0",
+    "htmlhint": "^1.1.4",
+    "html-minifier": "^4.0.0"
+  }
+}

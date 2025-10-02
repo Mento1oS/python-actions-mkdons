@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: My Docs are barking loud
+site_description: Static site about Premier League
+site_author: me myself and i
+theme:
+  name: null
+  custom_dir: theme
