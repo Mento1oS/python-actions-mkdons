@@ -1,3 +1,13 @@
-# About
+# ℹ️ About This Project
 
-This site was created as a demo of MkDocs with a **custom theme** and GitHub Actions.
+Этот сайт создан в рамках учебного задания по **кастомизации MkDocs**.
+
+### Технологии:
+- **MkDocs** – генерация документации
+- **Jinja2** – шаблоны для темы
+- **GitHub Actions** – автоматизация сборки и деплоя
+- **PostCSS + Autoprefixer** – обработка CSS
+- **HTMLHint, HTML-minifier** – валидация и минификация HTML
+
+### Автор:
+Artem
