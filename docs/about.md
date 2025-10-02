@@ -10,4 +10,4 @@
 - **HTMLHint, HTML-minifier** – валидация и минификация HTML
 
 ### Автор:
-Artem
+mento1os
